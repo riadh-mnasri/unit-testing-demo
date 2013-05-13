@@ -1,6 +1,3 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples;
 
 import static org.hamcrest.Matchers.is;

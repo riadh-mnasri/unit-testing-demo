@@ -1,6 +1,3 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples.exercices.exo2;
 
 import junit.framework.Assert;

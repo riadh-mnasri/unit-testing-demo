@@ -1,12 +1,9 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples.exo4;
 
 import com.riadh.samples.BusinessException;
 
 /**
- * @author Manpower
+ * @author Riadh MNASRI
  * 
  */
 public interface ArticlePriceCalculatorService {

@@ -1,6 +1,3 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples;
 
 import static org.hamcrest.Matchers.anyOf;
@@ -23,6 +20,10 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+/**
+ * @author Riadh MNASRI
+ * 
+ */
 public class DummySample {
 
     @BeforeClass

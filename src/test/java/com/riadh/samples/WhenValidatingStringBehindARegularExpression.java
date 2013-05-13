@@ -1,6 +1,3 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples;
 
 import junit.framework.Assert;
@@ -13,6 +10,10 @@ import org.junit.Test;
 
 import com.riadh.samples.exo2.RegExpValidator;
 
+/**
+ * @author Riadh MNASRI
+ * 
+ */
 public class WhenValidatingStringBehindARegularExpression {
 
     private RegExpValidator regExpValidator;

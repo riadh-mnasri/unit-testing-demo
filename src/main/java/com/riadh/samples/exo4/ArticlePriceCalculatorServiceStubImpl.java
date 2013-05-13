@@ -1,6 +1,3 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples.exo4;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,7 +6,7 @@ import com.riadh.samples.BusinessException;
 import com.riadh.samples.DAOException;
 
 /**
- * @author Manpower
+ * @author Riadh MNASRI
  * 
  */
 public class ArticlePriceCalculatorServiceStubImpl implements ArticlePriceCalculatorService {

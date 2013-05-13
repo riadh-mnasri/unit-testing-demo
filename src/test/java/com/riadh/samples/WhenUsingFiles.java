@@ -1,6 +1,3 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples;
 
 import java.io.File;
@@ -10,6 +7,10 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.TemporaryFolder;
 
+/**
+ * @author Riadh MNASRI
+ * 
+ */
 public class WhenUsingFiles {
 
     @Rule

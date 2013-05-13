@@ -1,15 +1,11 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples.exo4;
 
 import com.riadh.samples.DAOException;
 
 /**
- * @author Manpower
+ * @author Riadh MNASRI
  * 
  */
-
 public class ArticleDAOStubImpl implements ArticleDAO {
 
     public Article getArticle(Integer articleId) throws DAOException {

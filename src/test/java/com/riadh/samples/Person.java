@@ -1,6 +1,3 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples;
 
 import org.apache.commons.lang.builder.EqualsBuilder;

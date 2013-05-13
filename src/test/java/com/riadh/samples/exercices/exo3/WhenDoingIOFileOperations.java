@@ -1,6 +1,3 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples.exercices.exo3;
 
 import static org.hamcrest.Matchers.equalTo;

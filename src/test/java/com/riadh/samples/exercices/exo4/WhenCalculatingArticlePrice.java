@@ -1,6 +1,3 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples.exercices.exo4;
 
 import static org.hamcrest.MatcherAssert.assertThat;

@@ -1,12 +1,9 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples.exo4;
 
 import com.riadh.samples.DAOException;
 
 /**
- * @author Manpower
+ * @author Riadh MNASRI
  * 
  */
 public interface ArticleDAO {

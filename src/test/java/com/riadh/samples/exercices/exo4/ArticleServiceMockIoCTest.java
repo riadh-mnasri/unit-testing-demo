@@ -1,6 +1,3 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples.exercices.exo4;
 
 import static org.hamcrest.MatcherAssert.assertThat;
@@ -25,7 +22,7 @@ import com.riadh.samples.exo4.Article;
 import com.riadh.samples.exo4.ArticleDAO;
 
 /**
- * @author Manpower
+ * @author Riadh MNASRI
  * 
  */
 @RunWith(MockitoJUnitRunner.class)
@@ -62,10 +59,6 @@ public class ArticleServiceMockIoCTest {
         articleDAO = null;
     }
 
-    /**
-     * Test method for
-     * {@link com.manpower.training.easymock.ArticleServiceImpl#findArticle(java.lang.Integer)} .
-     */
     @Test
     public void findArticle() {
         try {

@@ -1,6 +1,3 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples.exercices.exo1;
 
 import static org.hamcrest.Matchers.equalTo;
@@ -18,6 +15,10 @@ import com.riadh.samples.BadArgumentsException;
 import com.riadh.samples.exo1.Calculator;
 import com.riadh.samples.exo1.CalculatorImpl;
 
+/**
+ * @author Riadh MNASRI
+ * 
+ */
 public class WhenPerformingAddOperation {
 
     private Calculator calculator;

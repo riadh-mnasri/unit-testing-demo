@@ -1,6 +1,3 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples;
 
 import static org.junit.Assert.fail;
@@ -19,7 +16,7 @@ import com.riadh.samples.exo4.ArticleDAO;
 import com.riadh.samples.exo4.ArticleDAOStubImpl;
 
 /**
- * @author Manpower
+ * @author Riadh MNASRI
  * 
  */
 public class ArticleServiceTest {
@@ -49,10 +46,6 @@ public class ArticleServiceTest {
         mockedDependency = null;
     }
 
-    /**
-     * Test method for
-     * {@link com.manpower.training.easymock.ArticleServiceImpl#findArticle(java.lang.Integer)} .
-     */
     @Test
     public void findArticle() {
         try {
@@ -71,10 +64,6 @@ public class ArticleServiceTest {
         }
     }
 
-    /**
-     * Test method for
-     * {@link com.manpower.training.easymock.ArticleServiceImpl#findArticle(java.lang.Integer)} .
-     */
     @Test
     public void findArticleUsingClassImplementation() {
         try {
@@ -97,10 +86,6 @@ public class ArticleServiceTest {
         }
     }
 
-    /**
-     * Test method for
-     * {@link com.manpower.training.easymock.ArticleServiceImpl#findArticle(java.lang.Integer)} .
-     */
     @Test
     public void findArticleManyTimes() {
         try {
@@ -122,10 +107,6 @@ public class ArticleServiceTest {
         }
     }
 
-    /**
-     * Test method for
-     * {@link com.manpower.training.easymock.ArticleServiceImpl#findArticle(java.lang.Integer)} .
-     */
     @Test
     public void findArticleAnyTimes() {
         try {
@@ -147,10 +128,6 @@ public class ArticleServiceTest {
         }
     }
 
-    /**
-     * Test method for
-     * {@link com.manpower.training.easymock.ArticleServiceImpl#findArticle(java.lang.Integer)} .
-     */
     @Test
     public void findArticleOrderChecked() {
         try {
@@ -175,10 +152,6 @@ public class ArticleServiceTest {
 
     }
 
-    /**
-     * Test method for
-     * {@link com.manpower.training.easymock.ArticleServiceImpl#findArticle(java.lang.Integer)} .
-     */
     @Test
     public void findArticleErrorCase() {
         try {

@@ -1,6 +1,3 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples.exo4;
 
 import java.io.Serializable;
@@ -10,7 +7,7 @@ import org.apache.commons.lang.builder.HashCodeBuilder;
 import org.apache.commons.lang.builder.ReflectionToStringBuilder;
 
 /**
- * @author Manpower
+ * @author Riadh MNASRI
  * 
  */
 public class Article implements Serializable {

@@ -1,6 +1,3 @@
-/**
- * Copyright Manpower
- */
 package com.riadh.samples;
 
 import static com.riadh.samples.MyMatchers.hasSize;
