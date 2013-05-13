@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	
+	<property name="UNIT_TESTS_HOME" value="/tmp/logs/tests/projects/unit_tests" />
+
+	<appender name="stdout" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>%d{yyyy/MM/dd HH:mm:ss,SSS} | %5p | %C.%M\(%F:%L\) - %m
+				%throwable{3}%n</pattern>
+		</encoder>
+	</appender>
+
+	<appender name="logUnitTests"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<file>${UNIT_TESTS_HOME}/logs/UNIT-TESTS-LOGS.txt</file>
+		<encoder>
+			<pattern>%d{yyyy/MM/dd HH:mm s,SSS} | %5p | %C.%M\(%F:%L\) - %m%n
+			</pattern>
+		</encoder>
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<fileNamePattern>${UNIT_TESTS_HOME}/logs/UNIT-TESTS-LOGS.txt.%d{yyyy-MM-dd}
+			</fileNamePattern>
+		</rollingPolicy>
+	</appender>
+
+	<logger name="com.riadh" level="INFO">
+		<appender-ref ref="logUnitTests" />
+	</logger>
+
+	<root level="ERROR">
+		<appender-ref ref="logUnitTests" />
+		<appender-ref ref="stdout" />
+	</root>
+
+</configuration>

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/unit-testing-training/!svn/ver/14/trunk/src/test/java/com/manpower/samples
+END
+WhenUsingFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/unit-testing-training/!svn/ver/2/trunk/src/test/java/com/manpower/samples/WhenUsingFiles.java
+END
+MyMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/unit-testing-training/!svn/ver/2/trunk/src/test/java/com/manpower/samples/MyMatchers.java
+END
+AreEvenNumbers.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/unit-testing-training/!svn/ver/2/trunk/src/test/java/com/manpower/samples/AreEvenNumbers.java
+END
+WhenValidatingStringBehindARegularExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/unit-testing-training/!svn/ver/2/trunk/src/test/java/com/manpower/samples/WhenValidatingStringBehindARegularExpression.java
+END
+WhenIUseMyCustomHamcrestMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/unit-testing-training/!svn/ver/2/trunk/src/test/java/com/manpower/samples/WhenIUseMyCustomHamcrestMatchers.java
+END
+HasSizeMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/unit-testing-training/!svn/ver/2/trunk/src/test/java/com/manpower/samples/HasSizeMatcher.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/unit-testing-training/!svn/ver/2/trunk/src/test/java/com/manpower/samples/Person.java
+END
+WhenCalculatingTax.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/unit-testing-training/!svn/ver/2/trunk/src/test/java/com/manpower/samples/WhenCalculatingTax.java
+END
+DummySample.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/unit-testing-training/!svn/ver/2/trunk/src/test/java/com/manpower/samples/DummySample.java
+END
+WhenDoingCalculatingOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/unit-testing-training/!svn/ver/2/trunk/src/test/java/com/manpower/samples/WhenDoingCalculatingOperations.java
+END
+ArticleServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/unit-testing-training/!svn/ver/14/trunk/src/test/java/com/manpower/samples/ArticleServiceTest.java
+END

@@ -1,0 +1,6 @@
+#The Maven target directory
+/target
+.classpath
+.project
+/.settings
+/.svn
